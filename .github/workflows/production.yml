@@ -47,7 +47,7 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: dwc9njit/dwc9_devops:latest
+          tags: dwc9/dwc9_devops:latest
 
           # Add other relevant build parameters here
 
