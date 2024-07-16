@@ -1,2 +1,4 @@
 venv
 _*pycache*_
+images/*
+!images/dwc9_docker_screenshot.png
